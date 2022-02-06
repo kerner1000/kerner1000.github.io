@@ -36,6 +36,11 @@ mv --backup=numbered 201505*jpg ../2015-05/
 rsync -a --backup --remove-source-files --progress 2012-*/*.jpg 2012
 ```
 
+#### Example
+```
+mv 2021-0?/* 2021
+```
+
 Moves all files from the current working directory to the 'pre-sort' directory.
 
 ### More Helpful sniplets

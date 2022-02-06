@@ -1,6 +1,9 @@
 ---
 title: "Summary Mark Manson"
+excerpt: ""
+description: ""
 categories: [Books]
+tags: []
 ---
 
 ---

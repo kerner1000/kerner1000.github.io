@@ -2,8 +2,8 @@
 title: "Convert *.heic* files to *.jpg*"
 excerpt: ""
 description: ""
-categories: [Blog, Linux]
-tags: [files and folders, pictures]
+categories: [Media]
+tags: [files and folders, pictures, terminal]
 ---
 
 ---

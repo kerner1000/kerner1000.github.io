@@ -19,11 +19,11 @@ and
 ### (Delete Thumnails)
 `find . -type d -name '.@__thumb' -exec rm -r "{}" \;`
 
-### [Convert *.heic* files]({{ site.url }}/2019/01/11/heic-pictures/)
+### [Convert *.heic* files]({{ site.url }}/2019/01/11/heic-pictures)
 
-### [Check files for duplicates]({{ site.url }}/blog/linux/duplicate-files/)
+### [Check files for duplicates]({{ site.url }}/2017/06/07/duplicate-files)
 
-### [Rename pictures by meta date]({{ site.url }}/blog/linux/rename-pictures-by-date/)
+### [Rename pictures by meta date]({{ site.url }}/2017/06/07/rename-pictures-by-date)
 
 ### Sort By Date
 Start to sort by date. Move to folders named by date, e.g. 2015-05. Again be careful to not override when moving.

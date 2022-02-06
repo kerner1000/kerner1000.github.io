@@ -3,7 +3,7 @@ title: 'MySQL won’t start automatically during system startup'
 description: ''
 excerpt: ''
 categories: [Administration]
-tags: []
+tags: [sql]
 ---
 
 

@@ -2,10 +2,8 @@
 title: "Kurzfristige Vermietung und die Steuern"
 excerpt: "Wie werden Einnahmen aus kurzfristiger Vermietung (Airbnb, Booking, etc.) versteuert?"
 description: "Wie werden Einnahmen aus kurzfristiger Vermietung (Airbnb, Booking, etc.) versteuert?"
-categories: [Blog, Hosting]
+categories: [Hosting]
 tags: [steuern, vermieten, Airbnb, Booking.com, umsatzsteuer, gewerbesteuer]
-comments: true
-share: true
 ---
 
 

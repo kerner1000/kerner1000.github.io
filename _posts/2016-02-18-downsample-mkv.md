@@ -3,7 +3,7 @@ title: 'downsample mkv'
 description: ''
 excerpt: ''
 categories: [Media]
-tags: [Terminal]
+tags: [terminal]
 lang: en
 ---
 

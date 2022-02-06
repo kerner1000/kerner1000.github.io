@@ -2,8 +2,8 @@
 title: 'Handling Git Whitespaces'
 description: 'On the search for a good Git UI, that offers diff-views ignoring whitespaces .'
 excerpt: 'On the search for a good Git UI, that offers diff-views ignoring whitespaces.'
-categories: [Blog, Java]
-tags: [Git]
+categories: [Development]
+tags: [git]
 lang: en
 ---
 

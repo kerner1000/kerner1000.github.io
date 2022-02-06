@@ -2,8 +2,8 @@
 title: "Get PID by Window"
 excerpt: "Get the PID of a Process by it's Window"
 description: "Get the PID of a Process by it's Window"
-categories: [Blog, Linux]
-tags: []
+categories: [Development]
+tags: [terminal]
 ---
 
 

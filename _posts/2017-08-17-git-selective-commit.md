@@ -2,8 +2,8 @@
 title: "Git: Selectively Commit Files"
 excerpt: ""
 description: ""
-categories: [Blog]
-tags: [Git]
+categories: [Development]
+tags: [git]
 
 
 `git commit` commits changes currently in the staging area (changes that have been added using `git add`).

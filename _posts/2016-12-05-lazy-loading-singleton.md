@@ -3,7 +3,7 @@ title: 'Lazy-loading a Singleton Instance'
 description: 'Delegate lazy-loading and thread-safety to the JVM.'
 excerpt: 'Delegate lazy-loading and thread-safety to the JVM.'
 categories: [Development]
-tags: [singleton, concurrency, software design patterns, software development]
+tags: [singleton, concurrency, software design patterns, software development, Java]
 lang: en
 ---
 

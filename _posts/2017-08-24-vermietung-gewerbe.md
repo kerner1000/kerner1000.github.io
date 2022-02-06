@@ -2,10 +2,8 @@
 title: "Ist meine Vermietung gewerblich?"
 excerpt: "Muss ich ein Gewerbe anmelden wenn ich über Airbnb vermiete?"
 description: "Muss ich ein Gewerbe anmelden wenn ich über Airbnb vermiete?"
-categories: [Blog, Hosting]
+categories: [Hosting]
 tags: [gewerbe, gewerblich, vermieten, Airbnb, Booking.com, gewerbesteuer]
-comments: true
-share: true
 lang: de
 ---
 

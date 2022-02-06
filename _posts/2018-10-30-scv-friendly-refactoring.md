@@ -2,7 +2,7 @@
 title: "Git-friendly refactorings"
 excerpt: ""
 description: ""
-categories: [Blog, Java]
+categories: [Development]
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "Find and Remove Duplicate Files"
 excerpt: ""
 description: ""
-categories: [Administration]
+categories: [Administration, Media]
 tags: [files and folders, duplicates, pcitures]
 ---
 

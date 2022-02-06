@@ -4,7 +4,6 @@ excerpt: ""
 description: ""
 categories: [Books]
 tags: []
-comments: true
 ---
 
 ---

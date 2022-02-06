@@ -2,7 +2,7 @@
 title: "WLAN Repeater wird nicht ins Mesh eingebunden"
 excerpt: "Der WLAN Repeater verbindet sich zwar mit dem WLAN, das Mesh Symbol wird aber nicht angezeigt."
 description: "Der WLAN Repeater verbindet sich zwar mit dem WLAN, das Mesh Symbol wird aber nicht angezeigt."
-categories: [Blog]
+categories: [IT]
 tags: [Fritz!, mesh, wlan]
 lang: de
 ---

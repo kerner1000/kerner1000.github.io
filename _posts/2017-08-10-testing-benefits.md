@@ -4,8 +4,6 @@ description: 'What is Unit testing good for?'
 excerpt: 'What is Unit testing good for?'
 categories: [Development]
 tags: [testing, junit]
-comments: true
-share: true
 ---
 
 ## Eat your own dog food

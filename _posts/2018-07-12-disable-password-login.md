@@ -2,7 +2,7 @@
 title: 'Disable Password Login'
 description: ''
 excerpt: ''
-categories: [Blog, Linux]
+categories: [Administration]
 tags: [ssh]
 lang: en
 ---

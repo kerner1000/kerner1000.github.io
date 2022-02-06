@@ -2,7 +2,7 @@
 title: 'System Freezes When Debugging Java Applications'
 description: 'The graphical user interface freezes/ hangs when debugging Java applications under Linux.'
 excerpt: 'The graphical user interface freezes/ hangs when debugging Java applications under Linux.'
-categories: [Blog, Java, Linux]
+categories: [Development]
 tags: [x11, Eclipse]
 lang: en
 ---

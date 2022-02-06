@@ -2,7 +2,7 @@
 title: 'New Line Characters'
 description: ''
 excerpt: ''
-categories: [Blog, Java, Linux]
+categories: [Development]
 tags: []
 lang: en
 ---

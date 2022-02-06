@@ -2,7 +2,7 @@
 title: 'mv: do not override destination file that is newer than source file (update move)'
 description: ''
 excerpt: ''
-categories: [Administration]
+categories: [Administration, Media]
 tags: [terminal]
 lang: en
 ---

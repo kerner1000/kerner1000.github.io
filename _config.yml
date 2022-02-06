@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: A Digital Life
 email: 7750815@gmail.com
+permalink: :title:output_ext

@@ -3,9 +3,8 @@ layout: page
 title: Posts by Tag
 permalink: /tags/
 ---
-This page displays the site's tags in alphabetical order and shows how many posts there are per tag, makes anchor links for each tag, then outputs posts by tag in reverse chronological order. 
 
-### Posts by tag
+# Posts by tag
 
 {% assign sorted_tags = (site.tags | sort:0) %}
 <ul class="tag-box">
@@ -31,5 +30,3 @@ This page displays the site's tags in alphabetical order and shows how many post
 {% endfor %}
 </ul>
 {% endfor %}
-
-<!-- Listing posts by tag template from http://github.com/cagrimmett/jekyll-tools -->

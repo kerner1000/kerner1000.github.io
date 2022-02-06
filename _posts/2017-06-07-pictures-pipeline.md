@@ -27,10 +27,15 @@ and
 
 ### Sort By Date
 Start to sort by date. Move to folders named by date, e.g. 2015-05. Again be careful to not override when moving.
-#### Example
+#### Example Linux
 ```
 mv --backup=numbered 201505*jpg ../2015-05/
 ```
+#### Example Mac
+```
+rsync -a --backup --remove-source-files --progress 2012-*/*.jpg 2012
+```
+
 Moves all files from the current working directory to the 'pre-sort' directory.
 
 ### More Helpful sniplets

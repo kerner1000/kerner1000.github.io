@@ -1,8 +1,8 @@
 ---
-title: 'downsample mkv'
+title: 'Rezise images'
 description: ''
 excerpt: ''
-categories: [Blog, Linux]
+categories: [Media]
 tags: []
 lang: en
 ---

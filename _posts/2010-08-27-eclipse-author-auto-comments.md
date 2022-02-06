@@ -2,7 +2,7 @@
 title: "Change @author default value"
 excerpt: ""
 description: ""
-categories: [Blog]
+categories: [Development]
 tags: [Eclipse, template variable]
 ---
 

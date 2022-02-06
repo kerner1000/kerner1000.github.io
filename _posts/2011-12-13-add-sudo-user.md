@@ -2,7 +2,7 @@
 title: "Add user to sudoers"
 excerpt: ""
 description: ""
-categories: [Blog, Linux]
+categories: [Administration]
 tags: []
 ---
 

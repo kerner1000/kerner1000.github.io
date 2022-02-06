@@ -2,7 +2,7 @@
 title: "Health-Check External Disk"
 description: "Hard disk health is measured using S.M.A.R.T. (if available) and bad blocks scan."
 excerpt: "Hard disk health is measured using S.M.A.R.T. (if available) and bad blocks scan."
-categories: [Blog, Linux]
+categories: [Administration]
 tags: [NAS, QNAP, SMART, USB, bad blocks]
 ---
 

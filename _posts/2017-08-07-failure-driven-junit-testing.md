@@ -2,7 +2,7 @@
 title: 'Failure-Driven Unit Testing'
 description: 'Some concrete adivces on how to efficiently do (Unit) testing.'
 excerpt: 'Some concrete adivces on how to efficiently do (Unit) testing.'
-categories: [Blog, Java]
+categories: [Development]
 tags: [testing, junit]
 
 

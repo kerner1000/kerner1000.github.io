@@ -2,7 +2,7 @@
 title: "Unzip Archive Recursively"
 excerpt: ""
 description: ""
-categories: [Blog, Linux]
+categories: [Development]
 tags: [zip]
 ---
 

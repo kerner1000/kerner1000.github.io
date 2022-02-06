@@ -2,7 +2,7 @@
 title: "Change Default URL for PhpMyAdmin"
 excerpt: ""
 description: ""
-categories: [Blog, Linux]
+categories: [Development]
 tags: []
 ---
 

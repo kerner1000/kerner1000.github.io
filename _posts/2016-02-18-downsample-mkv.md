@@ -2,7 +2,7 @@
 title: 'downsample mkv'
 description: ''
 excerpt: ''
-categories: [Blog, Linux]
+categories: [Media]
 tags: []
 lang: en
 ---

@@ -2,8 +2,8 @@
 title: "NoClassDefFoundError when deploying EAR"
 excerpt: "When deploying an EAR (enterprise archive file) to an application server like JBOSS, java.lang.NoClassDefFoundError is thrown."
 description: "When deploying an EAR (enterprise archive file) to an application server like JBOSS, java.lang.NoClassDefFoundError is thrown."
-categories: [Blog, Java]
-tags: [ear]
+categories: [Development]
+tags: [Java]
 ---
 
 

@@ -2,8 +2,8 @@
 title: "org.hibernate.MappingException: property mapping has wrong number of columns"
 excerpt: "When deploying a persistence unit (jar, jar within ear), MappingException is thrown."
 description: "When deploying a persistence unit (jar, jar within ear), MappingException is thrown."
-categories: [Blog, Java]
-tags: [Hibernate]
+categories: [Development]
+tags: [Hibernate, Java]
 lang: en
 ---
 

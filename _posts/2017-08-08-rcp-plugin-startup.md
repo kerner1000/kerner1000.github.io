@@ -2,7 +2,7 @@
 title: 'Startup Instructions for RCP Plug-in'
 description: 'Defining startup instructions inside the Plug-in itself.'
 excerpt: 'Defining startup instructions inside the Plug-in itself.'
-categories: [Blog, Java]
+categories: [Development]
 tags: [startup, start level, Eclipse RCP]
 author: kerner1000
 ---

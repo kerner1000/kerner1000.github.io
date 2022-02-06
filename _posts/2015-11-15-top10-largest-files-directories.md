@@ -2,7 +2,7 @@
 title: "List Top 10 Largest Files and Directories"
 description: "Print a list of the top 10 largest files and directories."
 excerpt: "Print a list of the top 10 largest files and directories."
-categories: [Blog, Linux]
+categories: [Administration]
 tags: [files and folders]
 
 ---

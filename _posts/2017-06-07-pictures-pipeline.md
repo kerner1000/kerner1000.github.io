@@ -2,7 +2,7 @@
 title: Pipeline to Organize Pictures
 excerpt: "Example setup how to organize an endless stream of pictures."
 description: "Example setup how to organize an endless stream of pictures."
-categories: []
+categories: [Media]
 tags: [files and folders, pictures]
 ---
 

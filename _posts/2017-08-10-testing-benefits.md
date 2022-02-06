@@ -2,7 +2,7 @@
 title: 'Benefits from Testing'
 description: 'What is Unit testing good for?'
 excerpt: 'What is Unit testing good for?'
-categories: [Blog, Java]
+categories: [Development]
 tags: [testing, junit]
 comments: true
 share: true

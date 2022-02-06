@@ -2,7 +2,7 @@
 title: "Rename Pictures by Date"
 excerpt: ""
 description: ""
-categories: [Blog, Linux]
+categories: [Media]
 tags: [files and folders, rename, pictures]
 ---
 

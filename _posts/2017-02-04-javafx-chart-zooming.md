@@ -2,7 +2,7 @@
 title: "JavaFX Chart Zooming Done Better"
 excerpt: ""
 description: ""
-categories: [Blog, Java]
+categories: [Development]
 tags: [JavaFX]
 lang: en
 ---

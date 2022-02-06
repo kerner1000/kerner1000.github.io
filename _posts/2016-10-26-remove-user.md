@@ -2,7 +2,7 @@
 title: 'remove a user and all corresponding files'
 description: ''
 excerpt: ''
-categories: [Blog]
+categories: [Administration]
 tags: [Git]
 lang: en
 ---

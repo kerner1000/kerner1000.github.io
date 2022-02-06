@@ -2,7 +2,7 @@
 title: "Find and Remove Duplicate Files"
 excerpt: ""
 description: ""
-categories: [Blog, Linux]
+categories: [Administration]
 tags: [files and folders, duplicates, pcitures]
 ---
 

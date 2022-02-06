@@ -2,8 +2,8 @@
 title: "Exception: No Valid Constructor"
 excerpt: ""
 description: ""
-categories: [Blog, Java]
-tags: [JavaEE]
+categories: [Development]
+tags: [Java]
 ---
 
 ---

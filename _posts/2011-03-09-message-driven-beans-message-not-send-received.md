@@ -2,8 +2,8 @@
 title: "Message-Driven Beans, Message not send / received"
 excerpt: ""
 description: ""
-categories: [Blog, Java]
-tags: [JavaEE]
+categories: [Development]
+tags: [Java]
 ---
 
 ---

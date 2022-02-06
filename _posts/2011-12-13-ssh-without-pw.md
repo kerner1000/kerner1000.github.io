@@ -2,7 +2,7 @@
 title: "SSH Connection by RSA, Disable Password Login"
 excerpt: ""
 description: ""
-categories: [Blog, Linux]
+categories: [Administration]
 tags: [ssh]
 ---
 

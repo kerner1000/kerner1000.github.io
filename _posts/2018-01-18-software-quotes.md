@@ -2,8 +2,8 @@
 title: "Software Quotes"
 excerpt: ""
 description: ""
-categories: [Blog, Java]
-tags: []
+categories: [Development]
+tags: [quotes]
 ---
 
 

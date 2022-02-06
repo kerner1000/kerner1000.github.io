@@ -3,7 +3,7 @@ title: 'Rezise images'
 description: ''
 excerpt: ''
 categories: [Media]
-tags: []
+tags: [Terminal]
 lang: en
 ---
 

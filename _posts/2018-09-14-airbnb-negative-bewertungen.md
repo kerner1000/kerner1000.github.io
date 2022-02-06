@@ -27,12 +27,5 @@ Beispiel: 'Zentral gelegen', ruhig, schöner Garten, das sind alles 'leere' Attr
 + Versetz Dich in die Rolle des Gastes: Wie **glaubwürdig** ist ein Inserat mit ausnahmslos maximaler Bewertung in jedem Bereich? Denk an Shopping im Internet, wie glaubwürdig ist ein Produkt,das ausnahmslos maximale Punktzahl erhält?
 + Willst Du wirklich 5 von 5/ 10 von 10 Punkten? Eine solche Bewertung zieht Meckerer magisch an. Ausserdem wissen wir ja, dass es unverhältnismässig viel Energie kostet, einen 'perfekten' Score aufrecht zu halten ([Pareto](https://de.wikipedia.org/wiki/Paretoprinzip)). ich persönlich fühle mich mit 85% - 90% maximaler Punktzahl am wohlsten. :-) 
 
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}
-
 
 

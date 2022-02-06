@@ -3,7 +3,7 @@ title: "Negative Bewertungen"
 excerpt: "Warum negative Bewertungen nützlich sind."
 description: "Warum negative Bewertungen nützlich sind."
 categories: [Blog, Hosting]
-tags: [Airbnb, Booking.com, bewertungen]
+tags: [Airbnb, Booking.com]
 ---
 
 

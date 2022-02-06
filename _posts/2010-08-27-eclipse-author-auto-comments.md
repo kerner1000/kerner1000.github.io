@@ -1,5 +1,5 @@
 ---
-title: "Change `@author` default value"
+title: "Change @author default value"
 excerpt: ""
 description: ""
 categories: [Blog]

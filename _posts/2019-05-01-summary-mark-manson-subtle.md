@@ -2,7 +2,7 @@
 title: "Summary Mark Manson"
 excerpt: ""
 description: ""
-categories: [Blog]
+categories: [Books]
 tags: []
 comments: true
 ---

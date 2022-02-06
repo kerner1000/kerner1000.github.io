@@ -19,7 +19,7 @@ and
 ### (Delete Thumnails)
 `find . -type d -name '.@__thumb' -exec rm -r "{}" \;`
 
-### [Convert *.heic* files]({{ site.url }}/blog/linux/heic-pictures/)
+### [Convert *.heic* files]({{ site.url }}/2019/01/11/heic-pictures/)
 
 ### [Check files for duplicates]({{ site.url }}/blog/linux/duplicate-files/)
 

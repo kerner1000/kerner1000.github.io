@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: A Digital Life
-description: "My Notebook"
+description: My Notebook
 permalink: /:year/:month/:day/:title
 author: kerner1000

@@ -16,8 +16,11 @@ and
 ###	(Fix Permisssions)
 `sudo chown alex:users -R .`
 
-### (Delete Thumnails)
+### (Delete Metadata)
 `find . -type d -name '.@__thumb' -exec rm -r "{}" \;`
+
+`find . -name DS_Store -exec rm -r "{}" \;`
+
 
 ### [Convert *.heic* files]({{ site.url }}/2019/01/11/heic-pictures)
 

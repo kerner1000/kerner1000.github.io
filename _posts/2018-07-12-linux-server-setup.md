@@ -2,7 +2,7 @@
 title: 'Setup Linux Root Server'
 description: ''
 excerpt: ''
-categories: [Development]
+categories: [Administration]
 tags: [terminal]
 lang: en
 ---

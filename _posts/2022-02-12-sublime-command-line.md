@@ -1,7 +1,7 @@
 ---
 title: 'Call <i>Sublime Text</i> and <i>Sublime Merge</i> from Terminal'
-description: 'Opening a file with <i>Sublime Merge</i> and <i>Sublime Merge</i> from the Terminal on macOS'
-excerpt: 'Opening a file with <i>Sublime Merge</i> and <i>Sublime Merge</i> from the Terminal on macOS'
+description: 'Opening a file with <i>Sublime Text</i> and <i>Sublime Merge</i> from the Terminal on macOS'
+excerpt: 'Opening a file with <i>Sublime Text</i> and <i>Sublime Merge</i> from the Terminal on macOS'
 categories: [Development]
 tags: [terminal]
 lang: en

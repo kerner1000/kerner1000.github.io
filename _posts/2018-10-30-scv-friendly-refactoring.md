@@ -3,7 +3,7 @@ title: "Git-friendly refactorings"
 excerpt: ""
 description: ""
 categories: [Development]
-tags: []
+tags: [git, refactorings]
 ---
 
 

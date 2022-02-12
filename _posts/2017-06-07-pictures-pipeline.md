@@ -21,7 +21,6 @@ and
 
 `find . -name DS_Store -exec rm -r "{}" \;`
 
-
 ### [Convert *.heic* files]({{ site.url }}/2019/01/11/heic-pictures)
 
 ### [Check files for duplicates]({{ site.url }}/2017/06/07/duplicate-files)
@@ -30,6 +29,15 @@ and
 
 ### Sort By Date
 Start to sort by date. Move to folders named by date, e.g. 2015-05. Again be careful to not override when moving.
+
+Also note, that too many files in one folder will kill performance of your graphical file manager such as Nautilus of Finder. I recommend to keep number of files per folder below 2k.
+
+You can check the number of files inside a folder with
+
+`ls 2016 | wc -l`
+
+(assuming your file names do not have white spaces)
+
 #### Example Linux
 ```
 mv --backup=numbered 201505*jpg ../2015-05/
@@ -44,7 +52,7 @@ rsync -a --backup --remove-source-files --progress 2012-*/*.jpg 2012
 mv 2021-0?/* 2021
 ```
 
-Moves all files from the current working directory to the 'pre-sort' directory.
+
 
 ### More Helpful sniplets
 

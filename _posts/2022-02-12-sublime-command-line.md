@@ -1,7 +1,7 @@
 ---
 title: 'Call <i>Sublime Text</i> and <i>Sublime Merge</i> from Terminal'
-description: 'Opening a file with <i>Sublime Text</i> and <i>Sublime Merge</i> from the Terminal on macOS'
-excerpt: 'Opening a file with <i>Sublime Text</i> and <i>Sublime Merge</i> from the Terminal on macOS'
+description: 'Opening a file with <i>Sublime Text</i> and <i>Sublime Merge</i> from the Terminal on macOS.'
+excerpt: 'Opening a file with <i>Sublime Text</i> and <i>Sublime Merge</i> from the Terminal on macOS.'
 categories: [Development]
 tags: [terminal]
 lang: en
@@ -22,7 +22,7 @@ sudo mkdir -p /usr/local/bin
 
 ### <i>Sublime Merge</i>
 ```
-ln -sv "/Applications/Sublime Merge.app/Contents/SharedSupport/bin/smerge" /usr/local/bin/smerge
+ln -sv /Applications/Sublime Merge.app/Contents/SharedSupport/bin/smerge /usr/local/bin/smerge
 ```
 You might get an 'no such file or directory' error. In this case, just create the directory. The Shell is configured to pick up this directory when collecting binaries for the `PATH` variable.
 ```

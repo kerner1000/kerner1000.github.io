@@ -42,7 +42,7 @@
         {% for item in sorted %}
           {% if item.url != "index.md" and item.title and item.rank %}
             <li>
-              <a href="{{ item.url | replace:'.md','.html' }}">{{ item.title }}</a>
+              <a href="{{ item.url }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.url }} - {{ item.title }} - {{ item.rank }} ] </span> -->
             </li>
           {% endif %}

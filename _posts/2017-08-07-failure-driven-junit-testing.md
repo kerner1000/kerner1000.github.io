@@ -3,7 +3,7 @@ title: 'Failure-Driven Unit Testing'
 description: 'Some concrete adivces on how to efficiently do (Unit) testing.'
 excerpt: 'Some concrete adivces on how to efficiently do (Unit) testing.'
 categories: [Development]
-tags: [testing, junit, testing]
+tags: [testing, junit-testing]
 
 
 ---
@@ -30,8 +30,3 @@ Start with Integration and UI tests. If one test fails, continue to write tests 
 ## Limitations?
 
 This approach works best for obvious and immediate bugs. For example UI or behavioral bugs.  If your application does some number crunching or similar task that is hard or impossible to comprehend, you will probably not recognize a bug once you see it. Does that mean you cannot apply the failure-driven-testing model? Not at all. But bugs will not be recognized during prototyping or during first usage. Write top-level tests, that cover your algorithms at the most large-scale possible. If those tests fail, you have a starting point and know what to do.
-
-
-
-
-*..work in progress..*

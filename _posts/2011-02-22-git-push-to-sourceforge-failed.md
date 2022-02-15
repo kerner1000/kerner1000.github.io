@@ -16,7 +16,7 @@ fatal: failed to write object
 ```
 (or similar)
 
-Solution:
+**Solution:**
 Change your ssh username to `[username],[linux-projectname]`, e.g.
 ```
 ssh://hans,hans-project@hans-project.git.sourceforge.net/gitroot/hans-project/hans-project

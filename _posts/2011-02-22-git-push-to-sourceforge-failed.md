@@ -1,5 +1,5 @@
 ---
-title: "Exception: No Valid Constructor"
+title: "Push to SourceForge failed"
 excerpt: ""
 description: ""
 categories: [Development]
@@ -8,7 +8,7 @@ tags: [Java]
 
 ---
 **Problem:**
-Pushing to sourceforge.net project is not possible. It fails with follwing error message:
+Pushing to SourceForge.net project is not possible. It fails with follwing error message:
 
 ```
 error: insufficient permission for adding an object to repository database ./objects
@@ -22,4 +22,4 @@ Change your ssh username to `[username],[linux-projectname]`, e.g.
 ssh://hans,hans-project@hans-project.git.sourceforge.net/gitroot/hans-project/hans-project
 ```
 **Further information:**
-[Sourcceforge Wiki](https://sourceforge.net/apps/trac/sourceforge/wiki/Git#Access)
+[SourceForge.net Wiki](https://sourceforge.net/apps/trac/sourceforge/wiki/Git#Access)

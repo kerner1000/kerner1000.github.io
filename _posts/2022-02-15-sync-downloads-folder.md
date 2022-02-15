@@ -13,11 +13,11 @@ This does not include your Downloads folder, though. But there is an easy way to
 
 0. First, move all your files from `~/Downloads` to the new location. For example, your iCloud Downloads
 
-(`/Users/$USER/Library/Mobile Documents/com~apple~CloudDocs/Downloads`)
+	(`/Users/$USER/Library/Mobile Documents/com~apple~CloudDocs/Downloads`)
 
-or Dropbox Downloads
+	or Dropbox Downloads
 
-(`/Users/$USER/Dropbox/Downloads`).
+	(`/Users/$USER/Dropbox/Downloads`).
 
 0. Second, backup `.localized`:
 	```

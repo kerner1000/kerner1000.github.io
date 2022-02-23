@@ -14,52 +14,67 @@ Instead, came up with the following setup, using the [maven-shade-plugin](https:
 
 1.  First, we need a main class that does not exend from `javafx.application.Application`. We introduce a small helper class that delegates to the *real* application class:
 
-        public class Launcher {
-            public static void main(String[] args) {
-                MyApplication.main(args);
-            }
+    ```java
+    public class Launcher {
+
+        public static void main(String[] args) {
+            DrRenameApplication.main(args);
         }
+    }
+    ```
 
     The *real* main class:
+    ```java
+    public class DrRenameApplication extends Application {
 
-        public class MyApplication extends Application {
-            public static void main(String[] args) {
-                launch(args);
-            }
+        public static void main(String[] args) {
+            launch(args);
         }
+    }
+    ```
 
 2. Next, the Maven Shade plugin:
 
-            <plugin>
-				<artifactId>maven-shade-plugin</artifactId>
-				<version>3.2.4</version>
-				<executions>
-					<execution>
-						<phase>package</phase>
-						<goals>
-							<goal>shade</goal>
-						</goals>
-						<configuration>
-							<outputFile>shade/MyApp-${project.version}.jar</outputFile>
-							<transformers>
-								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>com.github.myapp.Launcher</mainClass>
-								</transformer>
-							</transformers>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>
+    ```xml
+    <plugin>
+      <artifactId>maven-shade-plugin</artifactId>
+      <version>3.2.4</version>
+      <executions>
+        <execution>
+          <phase>package</phase>
+          <goals>
+            <goal>shade</goal>
+          </goals>
+          <configuration>
+            <outputFile>shade/DrRename-${project.version}.jar</outputFile>
+            <transformers>
+              <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                <mainClass>com.github.drrename.Launcher</mainClass>
+              </transformer>
+            </transformers>
+          </configuration>
+        </execution>
+      </executions>
+    </plugin>
+    ```
 
 3. The Maven plugin for JavaFX:
 
-            <plugin>
-				<groupId>org.openjfx</groupId>
-				<artifactId>javafx-maven-plugin</artifactId>
-				<version>0.0.8</version>
-				<configuration>
-					<mainClass>com.github.myapp.MyApplication</mainClass>
-				</configuration>
-			</plugin>
+    ```xml
+    <plugin>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-maven-plugin</artifactId>
+      <version>0.0.8</version>
+      <configuration>
+        <mainClass>com.github.drrename.DrRenameApplication</mainClass>
+      </configuration>
+    </plugin>
+    ```
 
 4. Done! you can now trigger a Maven install, which will generate the runnable jar file during the build.
+
+References:
+
+* [openjfx samples](https://github.com/openjfx/samples/tree/master/CommandLine/Non-modular/Maven)
+* [samples pom](https://github.com/openjfx/samples/blob/master/CommandLine/Non-modular/Maven/hellofx/pom.xml)
+* [cross platform](https://openjfx.io/openjfx-docs/#modular)

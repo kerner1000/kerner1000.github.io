@@ -15,16 +15,23 @@ Fortunately, this can be done easily via the following commands:
 ```
  ln -sv /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 ```
-You might get an 'no such file or directory' error. In this case, just create the directory. The Shell is configured to pick up this directory when collecting binaries for the `PATH` variable.
-```
-sudo mkdir -p /usr/local/bin
-```
 
 ### <i>Sublime Merge</i>
 ```
 ln -sv /Applications/Sublime Merge.app/Contents/SharedSupport/bin/smerge /usr/local/bin/smerge
 ```
-You might get an 'no such file or directory' error. In this case, just create the directory. The Shell is configured to pick up this directory when collecting binaries for the `PATH` variable.
+
+You might get an `no such file or directory` error. In this case, just create the directory. The Shell is configured to pick up this directory when collecting binaries for the `PATH` variable.
 ```
 sudo mkdir -p /usr/local/bin
+```
+
+After this, you might need to restart your terminal session. Then, you should have the two commands `subl` and `smerge` available.
+
+## Launching a Sublime Merge diff of two non-repository, arbitrary files
+
+You can open a Sublime Merge diff window of any two files, even without having them in a git repository.
+For this, start Sublime Merge from command line like this:
+```
+smerge mergetool file1 file2
 ```

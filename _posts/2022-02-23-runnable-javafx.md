@@ -79,3 +79,4 @@ References:
 * [samples pom](https://github.com/openjfx/samples/blob/master/CommandLine/Non-modular/Maven/hellofx/pom.xml)
 * [cross platform](https://openjfx.io/openjfx-docs/#modular)
 * [centerkey.com](https://centerkey.com/mac/java/)
+* [stackoverflow](https://stackoverflow.com/questions/70914170/what-is-the-best-way-to-convert-jar-to-mac-app-using-a-maven-plugin)

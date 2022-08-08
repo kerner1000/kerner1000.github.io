@@ -16,7 +16,7 @@ and
 ###	(Fix Permisssions)
 `sudo chown alex:users -R .`
 
-### (Delete Metadata)
+### (Delete File System Metadata)
 `find . -type d -name '.@__thumb' -exec rm -r "{}" \;`
 
 `find . -name DS_Store -exec rm -r "{}" \;`

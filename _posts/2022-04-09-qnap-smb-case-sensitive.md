@@ -3,7 +3,7 @@ title: QNAP SMB Shares are Case Insensitive
 excerpt: "QNAP SMB Shares are Case Insensitive."
 description: "QNAP SMB Shares are Case Insensitive."
 categories: [Administration]
-tags: [QNAP SMB]
+tags: [QNAP, SMB]
 ---
 
 When mounting shares via SMB, case changes to filenames might not be affective.

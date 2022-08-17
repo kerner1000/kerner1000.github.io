@@ -1,5 +1,5 @@
 ---
-title: Feign Exception: Invalid HTTP method: PATCH
+title: Feign Exception Invalid HTTP method PATCH
 excerpt: "Feign Exception: Invalid HTTP method: PATCH"
 description: "Feign Exception: Invalid HTTP method: PATCH."
 categories: [Development]
@@ -26,7 +26,6 @@ public class FeignConfiguration {
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <!-- CHCRED-615 bugfix https://github.com/OpenFeign/feign/issues/1270 when the fix is merged, remove this exclusion -->
   <exclusions>
     <exclusion>
       <groupId>io.github.openfeign</groupId>

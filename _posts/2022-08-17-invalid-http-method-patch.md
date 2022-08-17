@@ -1,5 +1,5 @@
 ---
-title: "Feign Exception: Invalid HTTP method: PATCH"
+title: Feign Exception: Invalid HTTP method: PATCH
 excerpt: "Feign Exception: Invalid HTTP method: PATCH"
 description: "Feign Exception: Invalid HTTP method: PATCH."
 categories: [Development]

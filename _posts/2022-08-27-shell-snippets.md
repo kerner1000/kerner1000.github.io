@@ -13,3 +13,6 @@ Therefore, we need to manually set the right mods:
 find /verzeichnis/ -type d -exec chmod 755 {} +
 find /verzeichnis/ -type f -exec chmod 644 {} +
 ``` 
+
+Sources:
+[wiki.ubuntuusers.de/chmod/](https://wiki.ubuntuusers.de/chmod/)

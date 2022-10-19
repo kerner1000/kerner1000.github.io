@@ -8,13 +8,19 @@ lang: de
 ---
 
 Briefe und E-Mails in Deutsch und Englisch unterschieden sich formel.
-Die Grußformel, der Schluß sowie die Großschreibung des ersten Satzes unterscheiden sich hier.
+Die Grußformel, der Schluß sowie die Großschreibung des ersten Satzes unterscheiden sich.
 
 ### Deutsch (DE)
 
 ### Deutsch (CH)
 
-### Englisch
+### Englisch (US)
+
+Komma nach der Grußformel: _yes_
+
+Komma nach dem Schluß: _yes_
+
+Großschreibung nach Grußformel: _yes_
 
 
 

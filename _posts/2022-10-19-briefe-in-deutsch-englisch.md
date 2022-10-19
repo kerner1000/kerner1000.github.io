@@ -10,37 +10,13 @@ lang: de
 Briefe und E-Mails in Deutsch und Englisch unterschieden sich formel.
 Die Anrede, der Schluß sowie die Großschreibung des ersten Satzes unterscheiden sich.
 
-### Deutsch (DE, AT)
+| Sprachraum	 	|  Komma nach der Anrede | Komma nach dem Schluß  |  Großschreibung nach Anrede |
+|-------------------|------------------------|------------------------|-----------------------------|
+|  Deutsch (DE, AT) |  ja					 |  ja					  |   nein 						|
+|  Deutsch (CH)		|  nein					 |  nein				  |   ja 						|
+|  Englisch (US)	|  ja					 |  ja					  |   ja 						|
+|  Englisch (GB)	|  nein					 |  nein				  |   ja 						|
 
-Komma nach der Anrede: _ja_
-
-Komma nach dem Schluß: _ja_
-
-Großschreibung nach Anrede: _nein_
-
-### Deutsch (CH)
-
-Komma nach der Anrede: _nein_
-
-Komma nach dem Schluß: _nein_
-
-Großschreibung nach Anrede: _ja_
-
-### Englisch (US)
-
-Komma nach der Anrede: _ja_
-
-Komma nach dem Schluß: _ja_
-
-Großschreibung nach Anrede: _ja_
-
-### Englisch (GB)
-
-Komma nach der Anrede: _nein_
-
-Komma nach dem Schluß: _nein_
-
-Großschreibung nach Anrede: _ja_
 
 [Quelle](https://www.tmkommunikation.ch/aktuell/blog/wie-schreibt-man-die-anrede-in-e-mails-und-briefen-richtig--24.html)
 

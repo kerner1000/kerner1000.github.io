@@ -11,7 +11,7 @@ tags: [Java, JavaFX, codesign, Mac]
 
 ### Finding the problem
 
-+
++ ..
 ```
 codesign --verify DrKodi.app
 ```

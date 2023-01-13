@@ -12,7 +12,7 @@ Die Anrede, der Schluß sowie die Großschreibung des ersten Satzes unterscheide
 
 | Sprachraum	 	|  Komma nach der Anrede | Komma nach dem Schluß  |  Großschreibung nach Anrede |
 |-------------------|------------------------|------------------------|-----------------------------|
-|  Deutsch (DE, AT) |  ja					 |  ja					  |   nein 						|
+|  Deutsch (DE, AT) |  ja					 |  nein				  |   nein 						|
 |  Deutsch (CH)		|  nein					 |  nein				  |   ja 						|
 |  Englisch (US)	|  ja					 |  ja					  |   ja 						|
 |  Englisch (GB)	|  nein					 |  nein				  |   ja 						|

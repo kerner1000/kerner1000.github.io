@@ -6,6 +6,9 @@ categories: [Development]
 tags: [Java, JavaFX, codesign, Mac]
 ---
 
+1. Register as a developer at [developer.apple.com](https://developer.apple.com/)
+2. Register a new identifier for the app.
+![localImage](/images/Apple-Developer-Certificates-Identifiers-Profies.png)
 
 
 

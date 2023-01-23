@@ -1,10 +1,12 @@
 ---
-title: "Java(FX), Codesiging and the Apple App Store"
+title: "Codesiging Java apps for the Apple App Store"
 excerpt: "The Martyrium of codesigning Java Apps for MacOS."
 description: "The Martyrium of codesigning Java Apps for MacOS."
 categories: [Development]
 tags: [Java, JavaFX, codesign, Mac]
 ---
+
+
 
 
 ## Troubleshooting codesigning problems

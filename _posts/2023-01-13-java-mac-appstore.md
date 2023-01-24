@@ -14,7 +14,7 @@ tags: [Java, JavaFX, codesign, Mac]
 
 3. Go to [https://appstoreconnect.apple.com/apps](appstoreconnect.apple.com/apps) and register a new App with the created identifier.
 
-	![localImage](/images/Apple-Developer-Certificates-Identifiers-Profies.png)
+	![localImage](/images/Apple-Developer-new-App.png)
 
 ## Troubleshooting codesigning problems
 

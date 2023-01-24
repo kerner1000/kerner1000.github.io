@@ -6,15 +6,21 @@ categories: [Development]
 tags: [Java, JavaFX, codesign, Mac]
 ---
 
+## Tell Apple about your App
+
 1. Register as a developer at [developer.apple.com](https://developer.apple.com/).
 
-2. Go to [developer.apple.com/account/resources/certificates/list](https://developer.apple.com/account/resources/certificates/list) and register a new identifier for the app.
+2. Go to [developer.apple.com/account/resources/certificates/list](https://developer.apple.com/account/resources/certificates/list)
+	and register a new identifier for the app.
 
 	![localImage](/images/Apple-Developer-Certificates-Identifiers-Profies.png)
 
-3. Go to [appstoreconnect.apple.com/apps](https://appstoreconnect.apple.com/apps) and register a new App with the created identifier.
+3. Go to [appstoreconnect.apple.com/apps](https://appstoreconnect.apple.com/apps)
+	and register a new App with the created identifier.
 
 	![localImage](/images/Apple-Developer-new-App.png)
+
+## Notarize your App
 
 ## Troubleshooting codesigning problems
 

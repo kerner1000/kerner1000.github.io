@@ -20,6 +20,17 @@ tags: [Java, JavaFX, codesign, Mac]
 
 	![localImage](/images/Apple-Developer-new-App.png)
 
+4. Go to [appstoreconnect.apple.com/access/api](https://appstoreconnect.apple.com/access/api)
+	and create a developer API key.
+
+	![localImage](/images/Apple-Developer-App-Store-Connect-API-Keys.png)
+
+	You will need the "Issuer ID" and the "KEY ID" later for the notarization.
+
+## Codesign your App
+
+
+
 ## Notarize your App
 
 ## Troubleshooting codesigning problems

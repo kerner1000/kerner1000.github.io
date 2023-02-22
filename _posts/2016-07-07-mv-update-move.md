@@ -13,3 +13,12 @@ lang: en
 $ cp -avu * [destination]
 $ rm -rf *
 ```
+
+Note that this will override only _newer_ (by timestamp) files. It is not suitable for resuming a failed cp/ move.
+For this, you might use
+
+```
+rsync -va --append dirA dirB
+
+```
+instead. Note that `dirA` and `dirB` need to be present. See [here](https://superuser.com/questions/1174809/linux-copy-only-new-and-larger-files) for more details.
